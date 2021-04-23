@@ -1,1 +1,1 @@
-# 3-Say-aras-nda-en-b-y-k-ve-en-k-k-hesaplama
+# 3-Sayi arasinda en buyuk ve en kucuk hesaplama
